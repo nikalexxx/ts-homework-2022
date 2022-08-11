@@ -19,7 +19,7 @@
 - поставьте указанную версию node/npm c помощью `nvm use` (установите себе nvm, если его нет)
 - `npm i`
 - ...перевод на ts...
-- `npx run build` сборка, `tsconfig.json` менять нельзя
+- `npm run build` сборка, `tsconfig.json` менять нельзя
 - `npm run compare` сверка выхлопа транспиляции
 - `npm run test-ts` проверить, работают ли примеры
 
